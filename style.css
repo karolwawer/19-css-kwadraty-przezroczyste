@@ -1,0 +1,23 @@
+main{
+    background-color: lightyellow;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+    position: relative;
+    left:50%;
+}
+#square1{
+    opacity:1;
+}
+#square2{
+    opacity:0.6;
+}
+#square3{
+    opacity:0.4;
+}
+#square4{
+    opacity:0.1;
+}
